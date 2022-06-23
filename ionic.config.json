@@ -1,0 +1,7 @@
+{
+  "name": "avaliacao-2bimestre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
